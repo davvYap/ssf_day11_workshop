@@ -1,1 +1,0 @@
-# ssf_day11_workshop
